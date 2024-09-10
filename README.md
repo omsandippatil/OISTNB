@@ -1,32 +1,45 @@
-# OISTNB - Orange Is the New Black
+# 🍊 Orange Is The New Black: An Obsidian Theme
 
-Welcome to the dark side of Obsidian, where orange isn’t just the new black—it’s the *only* black that matters. This theme is here to set your notes ablaze in shades of fiery brilliance, with just enough black to remind you that life isn’t all sunshine and rainbows—it's more like staring into the void while sipping on a pumpkin spice latte. 
+## Because your notes are sentenced to life, just like your productivity
 
-## 🔥 Features
+Welcome to the "Orange Is The New Black" Obsidian theme, where your ideas are locked up tighter than a supermax facility and your creativity is on death row!
 
-- **Enhanced Color Palette**: You’ve got your oranges, from "Burnt Toast" to "Molten Lava," with blacks darker than your coffee. Your notes will look so good, you might just start taking them seriously.
-- **Retro Vibes**: Bask in the glow of yesteryear with fonts that scream "I’ve got a typewriter, and I’m not afraid to use it!" Pair that with a CRT screen effect to really get your nostalgia neurons firing.
-- **Black Titlebar**: Because your workspace should be as dark as your humor. It’s sleek, it’s chic, and it doesn’t give a damn about conventional design.
-- **Glowing Typography**: Your headers now have the ethereal glow of a late-night diner sign. They might not guide you to the best milkshake, but they will guide your thoughts to a higher plane.
-- **Retro Scrollbar**: We even made the scrollbar cool. Who does that? We do. Because details matter.
+### 🚨 "Features" (aka Cruel and Unusual Punishments):
 
-## 🧑‍💻 Installation
+- **Retro Orange Glow**: Feel like you're writing on a vintage computer... or under the harsh lights of an interrogation room.
+- **Dark Mode Only**: Because light is a luxury you don't deserve, inmate.
+- **Titlebar Blacker Than Your Soul**: Navigate with the desperation of someone who just dropped the soap.
+- **CRT Flicker Effect**: Is it eye strain, or are you finally cracking under the pressure? Who knows!
 
-1. **Download** the theme. Obviously. 
-2. **Apply** it in your Obsidian settings. Don’t worry, it won’t bite. But it might scorch.
-3. **Stare** at your screen in awe. Maybe shed a single tear of joy. 
+### 🥄 Installation (aka Voluntary Incarceration):
 
-## 🦸‍♀️ For the Brave Souls
+1. Download the theme (No conjugal visits included)
+2. Place it in your Obsidian vault's theme folder (Your new 6x8 cell)
+3. Activate it and kiss your sanity goodbye
 
-Feeling bold? Dive into the `.css` file and tweak until your heart’s content—or until you’ve unleashed a beast even Frankenstein would fear. You’re in control now, mad scientist.
+### ⚠️ Warning (Read or Die):
 
-## ⚠️ Warning
+Side effects may include, but are not limited to:
+- Compulsive shiv-making out of paperclips
+- Tattooing checkboxes on your knuckles
+- Trading your firstborn for an extra Markdown plugin
+- Waking up in cold sweats mumbling about "nested lists"
 
-Side effects may include:
-- Uncontrollable urge to write poetry about the void.
-- Sudden appreciation for 70s sci-fi aesthetics.
-- The need to explain to your friends why orange *is* the new black.
+### 🎭 Usage Tips (Survival Guide):
 
-## 🧡 Final Thoughts
+- Headers are the prison hierarchy. Use H1 sparingly, unless you want a bounty on your head.
+- Tags are now your gang affiliations. Choose wisely, or end up in protective custody.
+- Links are contraband. Every click could be your last.
+- Backlinks are snitches. Trust no one.
 
-OISTNB is more than just a theme—it’s a lifestyle. So, go ahead, embrace the dark, and let your notes shine in a blaze of orange glory. And remember, in this world, black isn’t just a color; it’s an attitude.
+### 👮 Support (Pleas for Clemency):
+
+Found a bug? Congratulations, you've got yourself a pet. If it's really bothering you, file a report in the grievance box (aka /dev/null).
+
+---
+
+Remember, in "Orange Is The New Black" Obsidian theme, your notes are doing hard time... and so are you! 
+
+Now get back to work, maggot! Those notes aren't going to write themselves, and the warden doesn't accept "writer's block" as an excuse for slacking off.
+
+P.S. If you think this theme is too intense, maybe you should go back to your cozy little Notion pages with their soft pastels and rounded corners. This theme is for the hardcore note-takers only. The ones who treat every bullet point like it's a matter of life and death. Because in here, it just might be.
