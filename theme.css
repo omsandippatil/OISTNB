@@ -5,7 +5,7 @@
     --orange-darkest: #802200;
     --orange-darker: #AA4400;
     --orange-dark: #CC5500;
-    --orange-medium: #FF6600;
+    --orange-medium: #FF6600; 
     --orange-light: #FF8533;
     --orange-lighter: #FFA366;
     --true-black: #000000;
@@ -265,26 +265,4 @@ input:focus, textarea:focus {
 .nav-file-title:hover, .nav-folder-title:hover {
     background-color: var(--off-black);
     color: var(--orange-light);
-}
-
-/* Code Block Styling */
-pre, code {
-    font-family: var(--font-text-theme);
-    background-color: var(--off-black);
-    border: 1px solid var(--orange-darker);
-    border-radius: var(--radius-s);
-    padding: var(--spacing-xs);
-}
-
-/* Link Styling */
-a {
-    color: var(--orange-light);
-    text-decoration: none;
-    border-bottom: 1px dotted var(--orange-medium);
-    transition: color 0.3s ease, border-bottom 0.3s ease;
-}
-
-a:hover {
-    color: var(--orange-lighter);
-    border-bottom: 1px solid var(--orange-lighter);
 }
